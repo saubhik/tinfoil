@@ -1,7 +1,7 @@
 # tinfoil
 (thin folly), folly as needed by mvfst
 
-Only those folly headers required by mvfst. Trims down folly from 784 to 384 headers.
+Only those folly headers required by mvfst. Trims down folly from 784 to 559 headers.
 
 ```shell
 mvfst/_build/deps/include/tinfoil$ find . -type f | wc -l
